@@ -26,7 +26,6 @@
 coverage.html
 
 # VS Code
-.vscode
 debug
 
 # Jetbrains
@@ -61,3 +60,5 @@ test/e2e/testdata/zot/
 !test/e2e/testdata/zot/passwd_bcrypt
 
 test/e2e/go.work.sum
+config.bat
+node_modules
